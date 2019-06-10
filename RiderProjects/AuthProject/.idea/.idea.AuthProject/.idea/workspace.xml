@@ -1,0 +1,1592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6363b879-6667-42e8-9f77-dac9f67e1724" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AuthProject" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AuthProject/Services/JwtTokenStorageInfo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="40" column="38" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="38" />
+              <folding>
+                <marker date="1560091324900" expanded="true" signature="6:487" ph="..." />
+                <marker date="1560091324900" expanded="true" signature="536:5152" ph="{...}" />
+                <marker date="1560091324900" expanded="true" signature="572:877" ph="{...}" />
+                <marker date="1560091324900" expanded="true" signature="662:762" ph="{...}" />
+                <marker date="1560091324900" expanded="true" signature="909:1006" ph="{...}" />
+                <marker date="1560091324900" expanded="true" signature="1062:1123" ph="{...}" />
+                <marker date="1560091324900" expanded="true" signature="1161:1525" ph="{...}" />
+                <marker date="1560091324900" expanded="true" signature="1215:1260" ph="{...}" />
+                <marker date="1560091324900" expanded="true" signature="1339:1404" ph="{...}" />
+                <marker date="1560091324900" expanded="true" signature="1614:2367" ph="{...}" />
+                <marker date="1560091324900" expanded="true" signature="1879:1983" ph="{...}" />
+                <marker date="1560091324900" expanded="true" signature="2096:2361" ph="{...}" />
+                <marker date="1560091324900" expanded="true" signature="2479:5150" ph="{...}" />
+                <marker date="1560091324900" expanded="true" signature="2922:3069" ph="{...}" />
+                <marker date="1560091324900" expanded="true" signature="3211:4784" ph="{...}" />
+                <marker date="1560091324900" expanded="true" signature="3301:4599" ph="{...}" />
+                <marker date="1560091324900" expanded="true" signature="3537:3650" ph="{...}" />
+                <marker date="1560091324900" expanded="true" signature="3692:4018" ph="{...}" />
+                <marker date="1560091324900" expanded="true" signature="3877:4000" ph="{...}" />
+                <marker date="1560091324900" expanded="true" signature="4494:4530" ph="{...}" />
+                <marker date="1560091324900" expanded="true" signature="4631:4774" ph="{...}" />
+                <marker date="1560091324900" expanded="true" signature="4855:5144" ph="{...}" />
+                <marker date="1560091324900" expanded="true" signature="5155:6540" ph="/* public class JwtTokenHandler ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AuthProject/Services/RefreshTokenGenerateAndSave.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding>
+                <marker date="1560059911394" expanded="true" signature="6:167" ph="..." />
+                <marker date="1560059911394" expanded="true" signature="199:422" ph="{...}" />
+                <marker date="1560059911394" expanded="true" signature="238:420" ph="{...}" />
+                <marker date="1560059911394" expanded="true" signature="352:404" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AuthProject/Controllers/AuthController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+              <folding>
+                <marker date="1560091653393" expanded="false" signature="6:421" ph="..." />
+                <marker date="1560091653393" expanded="true" signature="456:3577" ph="{...}" />
+                <marker date="1560091653393" expanded="true" signature="584:3575" ph="{...}" />
+                <marker date="1560091653393" expanded="true" signature="1108:1294" ph="{...}" />
+                <marker date="1560091653393" expanded="true" signature="1581:1913" ph="{...}" />
+                <marker date="1560091653393" expanded="true" signature="2154:2254" ph="{...}" />
+                <marker date="1560091653393" expanded="true" signature="2513:2632" ph="{...}" />
+                <marker date="1560091653393" expanded="true" signature="2909:3028" ph="{...}" />
+                <marker date="1560091653393" expanded="true" signature="3263:3418" ph="{...}" />
+                <marker date="1560091653393" expanded="true" signature="3524:3569" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AuthProject/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="60" column="66" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
+              <folding>
+                <marker date="1560091324924" expanded="true" signature="6:579" ph="..." />
+                <marker date="1560091324924" expanded="true" signature="619:5432" ph="{...}" />
+                <marker date="1560091324924" expanded="true" signature="664:5430" ph="{...}" />
+                <marker date="1560091324924" expanded="true" signature="723:786" ph="{...}" />
+                <marker date="1560091324924" expanded="true" signature="1065:4657" ph="{...}" />
+                <marker date="1560091324924" expanded="true" signature="1370:1690" ph="{...}" />
+                <marker date="1560091324924" expanded="true" signature="3086:3490" ph="{...}" />
+                <marker date="1560091324924" expanded="true" signature="3559:3767" ph="{...}" />
+                <marker date="1560091324924" expanded="true" signature="3826:4056" ph="{...}" />
+                <marker date="1560091324924" expanded="true" signature="4060:4300" ph="/* services.AddMvc(config =&gt; ... */" />
+                <marker date="1560091324924" expanded="true" signature="4373:4537" ph="{...}" />
+                <marker date="1560091324924" expanded="true" signature="4845:5424" ph="{...}" />
+                <marker date="1560091324924" expanded="true" signature="4892:4969" ph="{...}" />
+                <marker date="1560091324924" expanded="true" signature="4986:5189" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AuthProject/BlackListAuthorizationHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+              <folding>
+                <marker date="1560012356120" expanded="true" signature="6:120" ph="..." />
+                <marker date="1560012356120" expanded="true" signature="143:537" ph="{...}" />
+                <marker date="1560012356120" expanded="true" signature="182:194" ph="{...}" />
+                <marker date="1560012356120" expanded="true" signature="298:535" ph="{...}" />
+                <marker date="1560012356120" expanded="true" signature="453:529" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AuthProject/JWT_CONSTANT.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="2" column="36" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="36" />
+              <folding>
+                <marker date="1560002797252" expanded="true" signature="21:156" ph="{...}" />
+                <marker date="1560002797252" expanded="true" signature="60:154" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AuthProject/AuthService/JwtAuthorizeService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="71" column="37" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
+              <folding>
+                <marker date="1560092379718" expanded="true" signature="6:660" ph="..." />
+                <marker date="1560092379718" expanded="true" signature="695:5503" ph="{...}" />
+                <marker date="1560092379718" expanded="true" signature="739:844" ph="{...}" />
+                <marker date="1560092379718" expanded="true" signature="792:838" ph="{...}" />
+                <marker date="1560092379718" expanded="true" signature="893:1001" ph="{...}" />
+                <marker date="1560092379718" expanded="true" signature="949:995" ph="{...}" />
+                <marker date="1560092379718" expanded="true" signature="1042:1142" ph="{...}" />
+                <marker date="1560092379718" expanded="true" signature="1180:3165" ph="{...}" />
+                <marker date="1560092379718" expanded="true" signature="1607:1806" ph="{...}" />
+                <marker date="1560092379718" expanded="true" signature="1943:3159" ph="{...}" />
+                <marker date="1560092379718" expanded="true" signature="3276:4358" ph="{...}" />
+                <marker date="1560092379718" expanded="true" signature="3580:3694" ph="{...}" />
+                <marker date="1560092379718" expanded="true" signature="3811:4352" ph="{...}" />
+                <marker date="1560092379718" expanded="true" signature="4465:5129" ph="{...}" />
+                <marker date="1560092379718" expanded="true" signature="4635:4695" ph="{...}" />
+                <marker date="1560092379718" expanded="true" signature="4813:5123" ph="{...}" />
+                <marker date="1560092379718" expanded="true" signature="5160:5501" ph="{...}" />
+                <marker date="1560092379718" expanded="true" signature="5249:5495" ph="{...}" />
+                <marker date="1560092379718" expanded="true" signature="5313:5457" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AuthProject/JwtTokenOptions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+              <folding>
+                <marker date="1560087023221" expanded="true" signature="6:165" ph="..." />
+                <marker date="1560087023221" expanded="true" signature="188:723" ph="{...}" />
+                <marker date="1560087023221" expanded="true" signature="223:584" ph="{...}" />
+                <marker date="1560087023221" expanded="true" signature="633:717" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AuthProject/EmailSender/EmailSenderService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="55" column="13" lean-forward="true" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+              <folding>
+                <marker date="1560075459157" expanded="true" signature="6:171" ph="..." />
+                <marker date="1560075459157" expanded="true" signature="223:2547" ph="{...}" />
+                <marker date="1560075459157" expanded="true" signature="255:591" ph="{...}" />
+                <marker date="1560075459157" expanded="true" signature="337:452" ph="{...}" />
+                <marker date="1560075459157" expanded="true" signature="634:903" ph="{...}" />
+                <marker date="1560075459157" expanded="true" signature="991:2545" ph="{...}" />
+                <marker date="1560075459157" expanded="true" signature="1242:1372" ph="{...}" />
+                <marker date="1560075459157" expanded="true" signature="1484:2539" ph="{...}" />
+                <marker date="1560075459157" expanded="true" signature="1933:1982" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AuthProject/Identities/CustomIdentityRole.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+              <folding>
+                <marker date="1560091275460" expanded="true" signature="6:228" ph="..." />
+                <marker date="1560091275460" expanded="true" signature="279:2250" ph="{...}" />
+                <marker date="1560091275460" expanded="true" signature="332:344" ph="{...}" />
+                <marker date="1560091275460" expanded="true" signature="403:953" ph="{...}" />
+                <marker date="1560091275460" expanded="true" signature="445:512" ph="{...}" />
+                <marker date="1560091275460" expanded="true" signature="599:787" ph="{...}" />
+                <marker date="1560091275460" expanded="true" signature="993:1352" ph="{...}" />
+                <marker date="1560091275460" expanded="true" signature="1088:1209" ph="{...}" />
+                <marker date="1560091275460" expanded="true" signature="1388:1536" ph="{...}" />
+                <marker date="1560091275460" expanded="true" signature="1441:1488" ph="{...}" />
+                <marker date="1560091275460" expanded="true" signature="1571:1925" ph="{...}" />
+                <marker date="1560091275460" expanded="true" signature="1652:1717" ph="{...}" />
+                <marker date="1560091275460" expanded="true" signature="1752:1802" ph="{...}" />
+                <marker date="1560091275460" expanded="true" signature="1999:2248" ph="{...}" />
+                <marker date="1560091275460" expanded="true" signature="2222:2242" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>string?</find>
+      <find>Get</find>
+      <find>JwtTokenOptions</find>
+      <find>AuthController</find>
+      <find>JwtAuthorizeService</find>
+      <find>Register</find>
+      <find>RefreshToken</find>
+      <find>IdentityError</find>
+      <find>Primary</find>
+      <find>IAsyncHandler&lt;EmailSendDto, SimplyHandlerResult&gt;</find>
+      <find>IAsyncHandler&lt;EmailConfirmDto, SimplyHandlerResult&gt;</find>
+      <find>IAsyncHandler&lt;CustomIdentityUserWithRolesDto, ConfirmationCodeDto&gt;</find>
+      <find>EmailSenderConfiguration</find>
+      <find>IEntityTypeConfiguration</find>
+      <find>FromMin</find>
+      <find>signingKey</find>
+      <find>EmailSender</find>
+      <find>subject</find>
+      <find>IAsyncHandler&lt;ForgotPasswordDto, SimplyHandlerResult&gt;</find>
+      <find>&lt;JwtTokenOptions&gt;</find>
+      <find>КОд</find>
+      <find>IAsyncHandler&lt;TokenEmailPasswordDto, ResetPasswordDto&gt;</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/AuthProject/BlackListAuthorizationHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AuthProject/EmailSender/EmailSenderService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/156F83D4-E5BE-4C04-83C0-2ADC8C5B506D/e8/238dd154/AuthorizationHandler`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8E98633F-4143-47D7-86EF-02F684B946A0/04/af7c5872/SmtpClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/156F83D4-E5BE-4C04-83C0-2ADC8C5B506D/23/30f60cc6/IAuthorizationRequirement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/75C9CB85-B561-423B-BC48-4E12910377E7/08/c5e6e98c/IdentityUserRole`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B31A67DC-1F7C-45C6-B942-C1D03D7B3608/9c/98f5a7a0/ControllerBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AuthProject/Requirements/BlackListAccessTokenRequirement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/75C9CB85-B561-423B-BC48-4E12910377E7/17/95f0c122/IdentityUser`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BAFF42B4-AA35-445F-93EA-1DACFE1A065F/51/dd1fb436/MimeMessage.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/54DC0AA9-3952-4634-BE91-8134CB4F3CDE/14/67ff9825/IdentityUserContext`5.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AuthProject/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AuthProject/HandleResuls/SimplyHandlerResult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AuthProject/HandleResuls/HandlerResult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AuthProject/Services/RefreshTokenGenerateAndSave.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AuthProject/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/963F5333-FBD1-449F-9522-DE9C497D86C4/1b/a66b09d6/UserManager`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/54DC0AA9-3952-4634-BE91-8134CB4F3CDE/a5/f7a9d95d/IdentityDbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AuthProject/Controllers/AuthController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4633ED7B-B4A1-47A9-A84E-4061EBCCFB41/a3/7280a7a3/ServiceProvider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/54DC0AA9-3952-4634-BE91-8134CB4F3CDE/93/4e379cc1/IdentityDbContext`3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/54DC0AA9-3952-4634-BE91-8134CB4F3CDE/ce/ec7eab97/IdentityDbContext`8.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/AB5401EC-F7DB-4F1D-8224-2A6252453B4B/33/TokenValidationParameters.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBDA0F24-15A5-4156-AC48-A8601E8D7262/c8/a0b2e99f/RuntimeType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5C154CBA-EBB4-4259-8D6F-066D17BEC246/67/dd17e038/SignInManager`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/AB5401EC-F7DB-4F1D-8224-2A6252453B4B/29/SecurityKey.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AuthProject/JwtTokenOptions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AuthProject/Migrations/20190609125949_init.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/75C9CB85-B561-423B-BC48-4E12910377E7/06/03d02eb6/IdentityRole`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CB33E60E-C84E-4979-9FD7-1555630E4C72/94/d3736de7/JwtBearerDefaults.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AuthProject/Migrations/AuthDbContextModelSnapshot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5D5431A2-E2CC-4313-9256-89D463312220/b5/b14684b7/DatabaseFacade.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4F16434E-A9F9-42A4-9B75-73E3CF202934/79/f4d2c574/Constants.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CB33E60E-C84E-4979-9FD7-1555630E4C72/1b/3d995a45/JwtBearerOptions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AuthProject/AuthService/JwtAuthorizeService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AuthProject/JWT_CONSTANT.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AuthProject/ValueTypes/ValueType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBDA0F24-15A5-4156-AC48-A8601E8D7262/d0/9dea26dc/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBDA0F24-15A5-4156-AC48-A8601E8D7262/fd/8958cdbb/IList.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBDA0F24-15A5-4156-AC48-A8601E8D7262/d8/b45a77cb/ICollection.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBDA0F24-15A5-4156-AC48-A8601E8D7262/88/d8a6619f/Int32.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBDA0F24-15A5-4156-AC48-A8601E8D7262/11/40851d2c/IReadOnlyCollection`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B31A67DC-1F7C-45C6-B942-C1D03D7B3608/3c/46c80c6b/ControllerEndpointRouteBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/D70A7D9E-B5F0-4C89-B0EA-698947CAE270/5/JwtSecurityToken.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AuthProject/Context/AuthDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B31A67DC-1F7C-45C6-B942-C1D03D7B3608/9a/93340697/AuthorizeFilter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4F16434E-A9F9-42A4-9B75-73E3CF202934/ac/91406bad/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AuthProject/Identities/CustomIdentityRole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B08C755-2F47-40C0-AC65-1386A5BA455B/23/574dfbc0/ClaimTypes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/75C9CB85-B561-423B-BC48-4E12910377E7/63/64f3fdef/IdentityRole.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AuthProject/Services/JwtTokenStorageInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7F3C253-61B4-45BF-A6D2-B129B4C5B5D5/00/29a58461/ConfigurationBinder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/75C9CB85-B561-423B-BC48-4E12910377E7/6e/69c64368/IdentityUser.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1571C05F-E355-4EE9-BF63-E97B4EF6249D/32/TokenValidationParameters.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AuthProject/Identities/IdentityRole.cs" />
+        <option value="$PROJECT_DIR$/AuthProject/Program.cs" />
+        <option value="$PROJECT_DIR$/AuthProject/AuthProject.csproj" />
+        <option value="$PROJECT_DIR$/AuthProject/Controllers/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/AuthProject/JWT_CONSTANT.cs" />
+        <option value="$PROJECT_DIR$/AuthProject/ValueTypes/TestImplicit.cs" />
+        <option value="$PROJECT_DIR$/AuthProject/BlackListAuthorizationHandler.cs" />
+        <option value="$PROJECT_DIR$/AuthProject/Services/RefreshTokenGenerateAndSave.cs" />
+        <option value="$PROJECT_DIR$/AuthProject/HandleResuls/SimplyHandlerResult.cs" />
+        <option value="$PROJECT_DIR$/AuthProject/HandleResuls/HandlerResult.cs" />
+        <option value="$PROJECT_DIR$/AuthProject/Requirements/BlackListAccessTokenRequirement.cs" />
+        <option value="$PROJECT_DIR$/AuthProject/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/AuthProject/EmailSender/EmailSenderService.cs" />
+        <option value="$PROJECT_DIR$/AuthProject/ValueTypes/ValueType.cs" />
+        <option value="$PROJECT_DIR$/AuthProject/Context/AuthDbContext.cs" />
+        <option value="$PROJECT_DIR$/AuthProject/appsettings.Development.json" />
+        <option value="$PROJECT_DIR$/AuthProject/Services/GetTokenValidateParameters.cs" />
+        <option value="$PROJECT_DIR$/AuthProject/JwtTokenOptions.cs" />
+        <option value="$PROJECT_DIR$/AuthProject/appsettings.json" />
+        <option value="$PROJECT_DIR$/AuthProject/Identities/CustomIdentityRole.cs" />
+        <option value="$PROJECT_DIR$/AuthProject/Services/JwtTokenStorageInfo.cs" />
+        <option value="$PROJECT_DIR$/AuthProject/Startup.cs" />
+        <option value="$PROJECT_DIR$/AuthProject/Controllers/AuthController.cs" />
+        <option value="$PROJECT_DIR$/AuthProject/AuthService/JwtAuthorizeService.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-124" />
+    <option name="y" value="49" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="AuthProject" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="AuthProject" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="AuthProject" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.AuthProject">
+    <configuration name="AuthProject" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/AuthProject/AuthProject.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="AuthProject" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthProject: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/AuthProject/AuthProject.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6363b879-6667-42e8-9f77-dac9f67e1724" name="Default Changelist" comment="" />
+      <created>1559977182092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559977182092</updated>
+      <workItem from="1559977183942" duration="28020000" />
+      <workItem from="1560055604994" duration="31098000" />
+      <workItem from="1560091562354" duration="1531000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="60649000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992908" visible="true" weight="0.25519446" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50070924" side_tool="true" weight="0.25253063" />
+      <window_info id="Azure Explorer" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32977587" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.88492274" visible="true" weight="0.28815368" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.45178476" weight="0.32977587" />
+      <window_info anchor="bottom" id="REST Client" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4938732" weight="0.3425827" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="11" sideWeight="0.49973363" weight="0.32977587" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.11507725" side_tool="true" visible="true" weight="0.28815368" />
+      <window_info anchor="bottom" id="NuGet" order="13" sideWeight="0.8859883" weight="0.32337245" />
+      <window_info anchor="bottom" id="Unit Tests" order="14" weight="0.32977587" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="bottom" id="Azure Activity Log" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24986681" />
+      <window_info anchor="right" id="PlantUML" order="3" />
+      <window_info anchor="right" id="Designer Toolbox" order="4" side_tool="true" weight="0.32978156" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AuthProject/Controllers/AuthController.cs</url>
+          <line>51</line>
+          <properties documentPath="$PROJECT_DIR$/AuthProject/Controllers/ValuesController.cs" initialLine="41" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AuthProject/Controllers/AuthController.cs</url>
+          <line>58</line>
+          <properties documentPath="$PROJECT_DIR$/AuthProject/Controllers/AuthController.cs" initialLine="58">
+            <startOffsets>
+              <option value="2177" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2244" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AuthProject/Services/JwtTokenStorageInfo.cs</url>
+          <line>121</line>
+          <properties documentPath="$PROJECT_DIR$/AuthProject/Services/JwtTokenStorageInfo.cs" initialLine="111">
+            <startOffsets>
+              <option value="4036" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4109" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AuthProject/Controllers/AuthController.cs</url>
+          <line>76</line>
+          <properties documentPath="$PROJECT_DIR$/AuthProject/Controllers/AuthController.cs" initialLine="76">
+            <startOffsets>
+              <option value="2932" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3018" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AuthProject/AuthService/JwtAuthorizeService.cs</url>
+          <line>135</line>
+          <properties documentPath="$PROJECT_DIR$/AuthProject/AuthService/JwtAuthorizeService.cs" initialLine="130">
+            <startOffsets>
+              <option value="4836" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4896" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AuthProject/AuthService/JwtAuthorizeService.cs</url>
+          <line>116</line>
+          <properties documentPath="$PROJECT_DIR$/AuthProject/AuthService/JwtAuthorizeService.cs" initialLine="111">
+            <startOffsets>
+              <option value="4080" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4131" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AuthProject/AuthService/JwtAuthorizeService.cs</url>
+          <line>70</line>
+          <properties documentPath="$PROJECT_DIR$/AuthProject/AuthService/JwtAuthorizeService.cs" initialLine="70">
+            <startOffsets>
+              <option value="2169" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2187" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/54DC0AA9-3952-4634-BE91-8134CB4F3CDE/ce/ec7eab97/IdentityDbContext`8.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-340">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/54DC0AA9-3952-4634-BE91-8134CB4F3CDE/93/4e379cc1/IdentityDbContext`3.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5C154CBA-EBB4-4259-8D6F-066D17BEC246/67/dd17e038/SignInManager`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="398" column="17" lean-forward="true" selection-start-line="398" selection-start-column="17" selection-end-line="398" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuthProject.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuthProject/AuthProject.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/AB5401EC-F7DB-4F1D-8224-2A6252453B4B/33/TokenValidationParameters.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="385" column="21" selection-start-line="385" selection-start-column="21" selection-end-line="385" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/AB5401EC-F7DB-4F1D-8224-2A6252453B4B/29/SecurityKey.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CB33E60E-C84E-4979-9FD7-1555630E4C72/94/d3736de7/JwtBearerDefaults.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4F16434E-A9F9-42A4-9B75-73E3CF202934/79/f4d2c574/Constants.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBDA0F24-15A5-4156-AC48-A8601E8D7262/fd/8958cdbb/IList.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBDA0F24-15A5-4156-AC48-A8601E8D7262/d8/b45a77cb/ICollection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBDA0F24-15A5-4156-AC48-A8601E8D7262/88/d8a6619f/Int32.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBDA0F24-15A5-4156-AC48-A8601E8D7262/11/40851d2c/IReadOnlyCollection`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3B08C755-2F47-40C0-AC65-1386A5BA455B/23/574dfbc0/ClaimTypes.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7F3C253-61B4-45BF-A6D2-B129B4C5B5D5/00/29a58461/ConfigurationBinder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/54DC0AA9-3952-4634-BE91-8134CB4F3CDE/14/67ff9825/IdentityUserContext`5.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="55" column="29" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4F16434E-A9F9-42A4-9B75-73E3CF202934/ac/91406bad/User.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <marker date="1560005326922" expanded="true" signature="0:379" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1560005326922" expanded="true" signature="519:1336" ph="{...}" />
+            <marker date="1560005326922" expanded="true" signature="541:1334" ph="{...}" />
+            <marker date="1560005326922" expanded="true" signature="568:659" ph="{...}" />
+            <marker date="1560005326922" expanded="true" signature="584:653" ph="{...}" />
+            <marker date="1560005326922" expanded="true" signature="752:895" ph="{...}" />
+            <marker date="1560005326922" expanded="true" signature="768:823" ph="{...}" />
+            <marker date="1560005326922" expanded="true" signature="833:889" ph="{...}" />
+            <marker date="1560005326922" expanded="true" signature="928:1030" ph="{...}" />
+            <marker date="1560005326922" expanded="true" signature="944:1024" ph="{...}" />
+            <marker date="1560005326922" expanded="true" signature="1069:1133" ph="{...}" />
+            <marker date="1560005326922" expanded="true" signature="1185:1330" ph="{...}" />
+            <marker date="1560005326922" expanded="true" signature="1201:1257" ph="{...}" />
+            <marker date="1560005326922" expanded="true" signature="1267:1324" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/156F83D4-E5BE-4C04-83C0-2ADC8C5B506D/e8/238dd154/AuthorizationHandler`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/156F83D4-E5BE-4C04-83C0-2ADC8C5B506D/23/30f60cc6/IAuthorizationRequirement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/75C9CB85-B561-423B-BC48-4E12910377E7/6e/69c64368/IdentityUser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8E98633F-4143-47D7-86EF-02F684B946A0/04/af7c5872/SmtpClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="685" column="11" selection-start-line="685" selection-start-column="11" selection-end-line="685" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BAFF42B4-AA35-445F-93EA-1DACFE1A065F/51/dd1fb436/MimeMessage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="210" column="11" selection-start-line="210" selection-start-column="11" selection-end-line="210" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/75C9CB85-B561-423B-BC48-4E12910377E7/17/95f0c122/IdentityUser`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="88" column="24" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuthProject/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <marker date="1559980195183" expanded="false" signature="6:358" ph="..." />
+            <marker date="1559980195183" expanded="true" signature="408:993" ph="{...}" />
+            <marker date="1559980195183" expanded="true" signature="467:775" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBDA0F24-15A5-4156-AC48-A8601E8D7262/d0/9dea26dc/ExceptionDispatchInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+          <folding>
+            <marker date="1559978963790" expanded="true" signature="0:378" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1559978963790" expanded="false" signature="386:444" ph="..." />
+            <marker date="1559978963790" expanded="true" signature="488:1528" ph="{...}" />
+            <marker date="1559978963790" expanded="true" signature="534:1526" ph="{...}" />
+            <marker date="1559978963790" expanded="true" signature="730:839" ph="{...}" />
+            <marker date="1559978963790" expanded="true" signature="946:1090" ph="{...}" />
+            <marker date="1559978963790" expanded="true" signature="1146:1238" ph="{...}" />
+            <marker date="1559978963790" expanded="true" signature="1184:1232" ph="{...}" />
+            <marker date="1559978963790" expanded="true" signature="1286:1395" ph="{...}" />
+            <marker date="1559978963790" expanded="true" signature="1457:1522" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuthProject/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuthProject/HandleResuls/SimplyHandlerResult.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <marker date="1560066808000" expanded="true" signature="33:237" ph="{...}" />
+            <marker date="1560066808000" expanded="true" signature="72:235" ph="{...}" />
+            <marker date="1560066808000" expanded="true" signature="129:184" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuthProject/HandleResuls/HandlerResult.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1560068819420" expanded="true" signature="50:319" ph="{...}" />
+            <marker date="1560068819420" expanded="true" signature="163:317" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuthProject/Requirements/BlackListAccessTokenRequirement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <marker date="1560069229868" expanded="true" signature="6:151" ph="..." />
+            <marker date="1560069229868" expanded="true" signature="174:654" ph="{...}" />
+            <marker date="1560069229868" expanded="true" signature="253:652" ph="{...}" />
+            <marker date="1560069229868" expanded="true" signature="383:439" ph="{...}" />
+            <marker date="1560069229868" expanded="true" signature="504:646" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/963F5333-FBD1-449F-9522-DE9C497D86C4/1b/a66b09d6/UserManager`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="571" column="40" selection-start-line="571" selection-start-column="40" selection-end-line="571" selection-end-column="40" />
+          <folding>
+            <marker date="1560066915266" expanded="true" signature="0:415" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1560066915266" expanded="false" signature="423:665" ph="..." />
+            <marker date="1560066915266" expanded="true" signature="706:65268" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="711:880" ph="/// Provides the APIs for managing user in a persistence store. ... " />
+            <marker date="1560066915266" expanded="true" signature="948:65266" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="957:1067" ph="/// The data protection purpose used for the change phone number methods. ... " />
+            <marker date="1560066915266" expanded="true" signature="1149:1266" ph="/// The data protection purpose used for the email confirmation related methods. ... " />
+            <marker date="1560066915266" expanded="true" signature="1343:1456" ph="/// The data protection purpose used for the reset password related methods. ... " />
+            <marker date="1560066915266" expanded="true" signature="1531:2823" ph="/// Constructs a new instance of &lt;see cref=&quot;T:Microsoft.AspNetCore.Identity.UserManager`1&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="3245:3257" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="3393:3451" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="3409:3445" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="3457:3604" ph="/// The &lt;see cref=&quot;T:Microsoft.AspNetCore.Identity.IdentityErrorDescriber&quot; /&gt; used to generate error messages. ... " />
+            <marker date="1560066915266" expanded="true" signature="3653:3737" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="3669:3705" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="3715:3731" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="3743:3903" ph="/// The &lt;see cref=&quot;T:Microsoft.AspNetCore.Identity.ILookupNormalizer&quot; /&gt; used to normalize things like user and r ... " />
+            <marker date="1560066915266" expanded="true" signature="3946:4030" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="3962:3998" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="4008:4024" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="4036:4311" ph="/// The &lt;see cref=&quot;T:Microsoft.Extensions.Logging.ILogger&quot; /&gt; used to log messages from the manager. ... " />
+            <marker date="1560066915266" expanded="true" signature="4345:4429" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="4361:4397" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="4407:4423" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="4435:4570" ph="/// The &lt;see cref=&quot;T:Microsoft.AspNetCore.Identity.IdentityOptions&quot; /&gt; used to configure Identity. ... " />
+            <marker date="1560066915266" expanded="true" signature="4605:4689" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="4621:4657" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="4667:4683" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="4695:4828" ph="/// The &lt;see cref=&quot;T:Microsoft.AspNetCore.Identity.IPasswordHasher`1&quot; /&gt; used to hash passwords. ... " />
+            <marker date="1560066915266" expanded="true" signature="4877:4961" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="4893:4929" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="4939:4955" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="4967:5107" ph="/// The &lt;see cref=&quot;T:Microsoft.AspNetCore.Identity.IPasswordValidator`1&quot; /&gt; used to validate passwords. ... " />
+            <marker date="1560066915266" expanded="true" signature="5170:5228" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="5186:5222" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="5234:5408" ph="/// Gets or sets the persistence store the manager operates over. ... " />
+            <marker date="1560066915266" expanded="true" signature="5455:5539" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="5471:5507" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="5517:5533" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="5545:5918" ph="/// Gets a flag indicating whether the backing user store supports returning ... " />
+            <marker date="1560066915266" expanded="true" signature="5965:6023" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="5981:6017" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="6029:6276" ph="/// Gets a flag indicating whether the backing user store supports authentication tokens. ... " />
+            <marker date="1560066915266" expanded="true" signature="6333:6391" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="6349:6385" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="6397:6642" ph="/// Gets a flag indicating whether the backing user store supports a user authenticator. ... " />
+            <marker date="1560066915266" expanded="true" signature="6695:6753" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="6711:6747" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="6759:6986" ph="/// Gets a flag indicating whether the backing user store supports user claims. ... " />
+            <marker date="1560066915266" expanded="true" signature="7028:7086" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="7044:7080" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="7092:7319" ph="/// Gets a flag indicating whether the backing user store supports user emails. ... " />
+            <marker date="1560066915266" expanded="true" signature="7361:7419" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="7377:7413" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="7425:7658" ph="/// Gets a flag indicating whether the backing user store supports user lock-outs. ... " />
+            <marker date="1560066915266" expanded="true" signature="7702:7760" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="7718:7754" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="7766:8001" ph="/// Gets a flag indicating whether the backing user store supports external logins. ... " />
+            <marker date="1560066915266" expanded="true" signature="8043:8101" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="8059:8095" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="8107:8340" ph="/// Gets a flag indicating whether the backing user store supports user passwords. ... " />
+            <marker date="1560066915266" expanded="true" signature="8385:8443" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="8401:8437" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="8449:8698" ph="/// Gets a flag indicating whether the backing user store supports user telephone numbers. ... " />
+            <marker date="1560066915266" expanded="true" signature="8746:8804" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="8762:8798" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="8810:9035" ph="/// Gets a flag indicating whether the backing user store supports user roles. ... " />
+            <marker date="1560066915266" expanded="true" signature="9076:9134" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="9092:9128" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="9140:9380" ph="/// Gets a flag indicating whether the backing user store supports security stamps. ... " />
+            <marker date="1560066915266" expanded="true" signature="9430:9488" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="9446:9482" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="9494:9754" ph="/// Gets a flag indicating whether the backing user store supports two factor authentication. ... " />
+            <marker date="1560066915266" expanded="true" signature="9800:9858" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="9816:9852" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="9864:10103" ph="/// Gets a flag indicating whether the backing user store supports recovery codes. ... " />
+            <marker date="1560066915266" expanded="true" signature="10162:10220" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="10178:10214" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="10226:10340" ph="///     Returns an IQueryable of users if the store is an IQueryableUserStore ... " />
+            <marker date="1560066915266" expanded="true" signature="10383:10441" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="10399:10435" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="10447:10579" ph="/// The &lt;see cref=&quot;T:Microsoft.AspNetCore.Identity.IUserValidator`1&quot; /&gt; used to validate users. ... " />
+            <marker date="1560066915266" expanded="true" signature="10634:10692" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="10650:10686" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="10698:11297" ph="/// Increments the access failed count for the user as an asynchronous operation. ... " />
+            <marker date="1560066915266" expanded="true" signature="11393:11423" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="11429:11907" ph="/// Adds the specified &lt;paramref name=&quot;claim&quot; /&gt; to the &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="11986:12016" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="12022:12503" ph="/// Adds the specified &lt;paramref name=&quot;claims&quot; /&gt; to the &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="12636:12666" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="12672:13299" ph="/// Adds an external &lt;see cref=&quot;T:Microsoft.AspNetCore.Identity.UserLoginInfo&quot; /&gt; to the specified &lt;paramref name ... " />
+            <marker date="1560066915266" expanded="true" signature="13425:13455" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="13461:14015" ph="/// Adds the &lt;paramref name=&quot;password&quot; /&gt; to the specified &lt;paramref name=&quot;user&quot; /&gt; only if the user ... " />
+            <marker date="1560066915266" expanded="true" signature="14140:14170" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="14176:14665" ph="/// Add the specified &lt;paramref name=&quot;user&quot; /&gt; to the named role. ... " />
+            <marker date="1560066915266" expanded="true" signature="14771:14801" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="14807:15300" ph="/// Add the specified &lt;paramref name=&quot;user&quot; /&gt; to the named roles. ... " />
+            <marker date="1560066915266" expanded="true" signature="15434:15464" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="15470:16065" ph="/// Updates a users emails if the specified email change &lt;paramref name=&quot;token&quot; /&gt; is valid for the user. ... " />
+            <marker date="1560066915266" expanded="true" signature="16210:16240" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="16246:16950" ph="/// Changes a user's password after confirming the specified &lt;paramref name=&quot;currentPassword&quot; /&gt; is correct, ... " />
+            <marker date="1560066915266" expanded="true" signature="17111:17141" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="17147:17784" ph="/// Sets the phone number for the specified &lt;paramref name=&quot;user&quot; /&gt; if the specified ... " />
+            <marker date="1560066915266" expanded="true" signature="17938:17968" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="17974:18563" ph="/// Returns a flag indicating whether the given &lt;paramref name=&quot;password&quot; /&gt; is valid for the ... " />
+            <marker date="1560066915266" expanded="true" signature="18667:18697" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="18703:19228" ph="/// Validates that an email confirmation token matches the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="19351:19381" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="19387:19609" ph="/// Returns how many recovery code are still valid for a user. ... " />
+            <marker date="1560066915266" expanded="true" signature="19674:19704" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="19710:20170" ph="/// Creates the specified &lt;paramref name=&quot;user&quot; /&gt; in the backing store with no password, ... " />
+            <marker date="1560066915266" expanded="true" signature="20260:20290" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="20296:20843" ph="/// Creates the specified &lt;paramref name=&quot;user&quot; /&gt; in the backing store with given password, ... " />
+            <marker date="1560066915266" expanded="true" signature="20950:20980" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="20986:21197" ph="/// Creates bytes to use as a security token from the user's security stamp. ... " />
+            <marker date="1560066915266" expanded="true" signature="21292:21322" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="21328:21408" ph="///Generate a new recovery code. ... " />
+            <marker date="1560066915266" expanded="true" signature="21467:21497" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="21503:21910" ph="/// Deletes the specified &lt;paramref name=&quot;user&quot; /&gt; from the backing store. ... " />
+            <marker date="1560066915266" expanded="true" signature="21974:22004" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="22107:22119" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="22125:22407" ph="/// Releases the unmanaged resources used by the role manager and optionally releases the managed resources. ... " />
+            <marker date="1560066915266" expanded="true" signature="22458:22470" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="22476:23087" ph="/// Gets the user, if any, associated with the normalized value of the specified email address. ... " />
+            <marker date="1560066915266" expanded="true" signature="23175:23205" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="23211:23621" ph="/// Finds and returns a user, if any, who has the specified &lt;paramref name=&quot;userId&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="23681:23711" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="23717:24293" ph="/// Retrieves the user associated with the specified external login provider and login provider key. ... " />
+            <marker date="1560066915266" expanded="true" signature="24383:24413" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="24419:24818" ph="/// Finds and returns a user, if any, who has the specified user name. ... " />
+            <marker date="1560066915266" expanded="true" signature="24908:24938" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="24944:25346" ph="/// Generates an email change token for the specified user. ... " />
+            <marker date="1560066915266" expanded="true" signature="25437:25467" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="25473:25952" ph="/// Generates a telephone number change token for the specified user. ... " />
+            <marker date="1560066915266" expanded="true" signature="26065:26095" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="26101:26492" ph="/// Generates a value suitable for use in concurrency tracking. ... " />
+            <marker date="1560066915266" expanded="true" signature="26566:26596" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="26602:26960" ph="/// Generates an email confirmation token for the specified user. ... " />
+            <marker date="1560066915266" expanded="true" signature="27040:27070" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="27076:27244" ph="/// Generates a new base32 encoded 160-bit security secret (size of SHA1 hash). ... " />
+            <marker date="1560066915266" expanded="true" signature="27300:27330" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="27336:27762" ph="/// Generates recovery codes for the user, this invalidates any previous recovery codes for the user. ... " />
+            <marker date="1560066915266" expanded="true" signature="27909:27939" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="27945:28412" ph="/// Generates a password reset token for the specified &lt;paramref name=&quot;user&quot; /&gt;, using ... " />
+            <marker date="1560066915266" expanded="true" signature="28488:28518" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="28524:29001" ph="/// Gets a two factor authentication token for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="29095:29125" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="29131:29685" ph="/// Generates a token for the given &lt;paramref name=&quot;user&quot; /&gt; and &lt;paramref name=&quot;purpose&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="29809:29839" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="29845:30251" ph="/// Retrieves the current number of failed accesses for the given &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="30344:30374" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="30380:30725" ph="///Returns an authentication token for a user. ... " />
+            <marker date="1560066915266" expanded="true" signature="30856:30886" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="30892:31052" ph="///Returns the authenticator key for the user. ... " />
+            <marker date="1560066915266" expanded="true" signature="31121:31151" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="31157:31337" ph="///Generates the token purpose used to change email. ... " />
+            <marker date="1560066915266" expanded="true" signature="31409:31439" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="31445:31911" ph="/// Gets a list of &lt;see cref=&quot;T:System.Security.Claims.Claim&quot; /&gt;s to be belonging to the specified &lt;paramref name ... " />
+            <marker date="1560066915266" expanded="true" signature="32002:32032" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="32038:32380" ph="/// Gets the email address for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="32464:32494" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="32500:32912" ph="/// Retrieves a flag indicating whether user lockout can be enabled for the specified user. ... " />
+            <marker date="1560066915266" expanded="true" signature="33003:33033" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="33039:33556" ph="/// Gets the last &lt;see cref=&quot;T:System.DateTimeOffset&quot; /&gt; a user's last lockout expired, if any. ... " />
+            <marker date="1560066915266" expanded="true" signature="33658:33688" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="33694:34147" ph="/// Retrieves the associated logins for the specified &lt;param ref=&quot;user&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="34246:34276" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="34282:34657" ph="/// Gets the telephone number, if any, for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="34747:34777" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="34783:35127" ph="/// Gets a list of role names the specified &lt;paramref name=&quot;user&quot; /&gt; belongs to. ... " />
+            <marker date="1560066915266" expanded="true" signature="35218:35248" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="35254:35635" ph="/// Get the security stamp for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="35727:35757" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="35763:36322" ph="/// Returns a flag indicating whether the specified &lt;paramref name=&quot;user&quot; /&gt; has two factor authentication enable ... " />
+            <marker date="1560066915266" expanded="true" signature="36415:36445" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="36451:36847" ph="/// Returns the user corresponding to the IdentityOptions.ClaimsIdentity.UserIdClaimType claim in ... " />
+            <marker date="1560066915266" expanded="true" signature="36918:36948" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="36954:37389" ph="/// Returns the User ID claim value if present otherwise returns null. ... " />
+            <marker date="1560066915266" expanded="true" signature="37452:37482" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="37488:37869" ph="/// Gets the user identifier for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="37954:37984" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="37990:38426" ph="/// Returns the Name claim value if present otherwise returns null. ... " />
+            <marker date="1560066915266" expanded="true" signature="38491:38521" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="38527:38890" ph="/// Gets the user name for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="38977:39007" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="39013:39433" ph="/// Returns a list of users from the user store who have the specified &lt;paramref name=&quot;claim&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="39506:39536" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="39542:40017" ph="/// Returns a list of users from the user store who are members of the specified &lt;paramref name=&quot;roleName&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="40092:40122" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="40128:40632" ph="/// Gets a list of valid two factor token providers for the specified &lt;paramref name=&quot;user&quot; /&gt;, ... " />
+            <marker date="1560066915266" expanded="true" signature="40741:40771" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="40777:41252" ph="/// Gets a flag indicating whether the specified &lt;paramref name=&quot;user&quot; /&gt; has a password. ... " />
+            <marker date="1560066915266" expanded="true" signature="41311:41341" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="41347:41894" ph="/// Gets a flag indicating whether the email address for the specified &lt;paramref name=&quot;user&quot; /&gt; has been verified ... " />
+            <marker date="1560066915266" expanded="true" signature="41984:42014" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="42020:42579" ph="/// Returns a flag indicating whether the specified &lt;paramref name=&quot;user&quot; /&gt; is a member of the given named role. ... " />
+            <marker date="1560066915266" expanded="true" signature="42674:42704" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="42710:43192" ph="/// Returns a flag indicating whether the specified &lt;paramref name=&quot;user&quot; /&gt; his locked out, ... " />
+            <marker date="1560066915266" expanded="true" signature="43277:43307" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="43313:43837" ph="/// Gets a flag indicating whether the specified &lt;paramref name=&quot;user&quot; /&gt;'s telephone number has been confirmed. ... " />
+            <marker date="1560066915266" expanded="true" signature="43907:43937" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="43943:44169" ph="///Normalize email for consistent comparisons. ... " />
+            <marker date="1560066915266" expanded="true" signature="44224:44254" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="44260:44513" ph="/// Normalize user or role name for consistent comparisons. ... " />
+            <marker date="1560066915266" expanded="true" signature="44566:44596" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="44602:44986" ph="/// Returns whether a recovery code is valid for a user. Note: recovery codes are only valid ... " />
+            <marker date="1560066915266" expanded="true" signature="45123:45153" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="45159:45355" ph="///Registers a token provider. ... " />
+            <marker date="1560066915266" expanded="true" signature="45480:45492" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="45498:45835" ph="///Remove an authentication token for a user. ... " />
+            <marker date="1560066915266" expanded="true" signature="46003:46033" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="46039:46606" ph="/// Removes the specified &lt;paramref name=&quot;claim&quot; /&gt; from the given &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="46688:46718" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="46724:47307" ph="/// Removes the specified &lt;paramref name=&quot;claims&quot; /&gt; from the given &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="47443:47473" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="47479:47984" ph="/// Removes the specified &lt;paramref name=&quot;user&quot; /&gt; from the named role. ... " />
+            <marker date="1560066915266" expanded="true" signature="48108:48138" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="48144:48653" ph="/// Removes the specified &lt;paramref name=&quot;user&quot; /&gt; from the named roles. ... " />
+            <marker date="1560066915266" expanded="true" signature="48792:48822" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="48828:49579" ph="/// Attempts to remove the provided external login information from the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="49735:49765" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="49771:50139" ph="///Removes a user's password. ... " />
+            <marker date="1560066915266" expanded="true" signature="50237:50267" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="50273:50915" ph="/// Replaces the given &lt;paramref name=&quot;claim&quot; /&gt; on the specified &lt;paramref name=&quot;user&quot; /&gt; with the &lt;paramref nam ... " />
+            <marker date="1560066915266" expanded="true" signature="51059:51089" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="51095:51512" ph="/// Resets the access failed count for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="51618:51648" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="51654:51834" ph="///Resets the authenticator key for the user. ... " />
+            <marker date="1560066915266" expanded="true" signature="51939:51969" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="51975:52681" ph="/// Resets the &lt;paramref name=&quot;user&quot; /&gt;'s password to the specified &lt;paramref name=&quot;newPassword&quot; /&gt; after ... " />
+            <marker date="1560066915266" expanded="true" signature="52831:52861" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="52867:53281" ph="///Sets an authentication token for a user. ... " />
+            <marker date="1560066915266" expanded="true" signature="53471:53501" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="53507:53988" ph="/// Sets the &lt;paramref name=&quot;email&quot; /&gt; address for a &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="54094:54124" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="54130:54690" ph="/// Sets a flag indicating whether the specified &lt;paramref name=&quot;user&quot; /&gt; is locked out, ... " />
+            <marker date="1560066915266" expanded="true" signature="54818:54848" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="54854:55451" ph="/// Locks out a user until the specified end date has passed. Setting a end date in the past immediately unlocks  ... " />
+            <marker date="1560066915266" expanded="true" signature="55593:55623" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="55629:56114" ph="/// Sets the phone number for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="56245:56275" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="56281:56944" ph="/// Sets a flag indicating whether the specified &lt;paramref name=&quot;user&quot; /&gt; has two factor authentication enabled o ... " />
+            <marker date="1560066915266" expanded="true" signature="57074:57104" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="57110:57489" ph="/// Sets the given &lt;paramref name=&quot;userName&quot; /&gt; for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="57614:57644" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="57749:57761" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="57767:58172" ph="/// Updates the specified &lt;paramref name=&quot;user&quot; /&gt; in the backing store. ... " />
+            <marker date="1560066915266" expanded="true" signature="58236:58266" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="58272:58567" ph="/// Updates the normalized email for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="58656:58686" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="58692:59023" ph="/// Updates the normalized user name for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="59115:59145" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="59151:59469" ph="///Updates a user's password hash. ... " />
+            <marker date="1560066915266" expanded="true" signature="59605:59635" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="59641:60204" ph="/// Regenerates the security stamp for the specified &lt;paramref name=&quot;user&quot; /&gt;. ... " />
+            <marker date="1560066915266" expanded="true" signature="60307:60337" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="60343:60581" ph="/// Called to update the user after validating and updating the normalized email/user name. ... " />
+            <marker date="1560066915266" expanded="true" signature="60678:60708" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="60714:61162" ph="/// Should return &lt;see cref=&quot;P:Microsoft.AspNetCore.Identity.IdentityResult.Success&quot; /&gt; if validation is successf ... " />
+            <marker date="1560066915266" expanded="true" signature="61287:61317" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="61323:61727" ph="/// Should return &lt;see cref=&quot;P:Microsoft.AspNetCore.Identity.IdentityResult.Success&quot; /&gt; if validation is successf ... " />
+            <marker date="1560066915266" expanded="true" signature="61818:61848" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="61854:62543" ph="/// Returns a flag indicating whether the specified &lt;paramref name=&quot;user&quot; /&gt;'s phone number change verification ... " />
+            <marker date="1560066915266" expanded="true" signature="62672:62702" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="62708:63356" ph="/// Returns a &lt;see cref=&quot;T:Microsoft.AspNetCore.Identity.PasswordVerificationResult&quot; /&gt; indicating the result of  ... " />
+            <marker date="1560066915266" expanded="true" signature="63538:63568" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="63574:64148" ph="/// Verifies the specified two factor authentication &lt;paramref name=&quot;token&quot; /&gt; against the &lt;paramref name=&quot;user&quot;  ... " />
+            <marker date="1560066915266" expanded="true" signature="64297:64327" ph="{...}" />
+            <marker date="1560066915266" expanded="true" signature="64333:65066" ph="/// Returns a flag indicating whether the specified &lt;paramref name=&quot;token&quot; /&gt; is valid for ... " />
+            <marker date="1560066915266" expanded="true" signature="65232:65262" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/D70A7D9E-B5F0-4C89-B0EA-698947CAE270/5/JwtSecurityToken.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="198" column="203" selection-start-line="198" selection-start-column="185" selection-end-line="198" selection-end-column="203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DBDA0F24-15A5-4156-AC48-A8601E8D7262/c8/a0b2e99f/RuntimeType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="2160" column="10" selection-start-line="2160" selection-start-column="10" selection-end-line="2160" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuthProject/ValueTypes/ValueType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1887">
+          <caret line="111" column="42" selection-start-line="111" selection-start-column="42" selection-end-line="111" selection-end-column="42" />
+          <folding>
+            <marker date="1560081304417" expanded="true" signature="6:176" ph="..." />
+            <marker date="1560081304417" expanded="true" signature="227:3573" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="283:864" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="372:417" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="485:583" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="655:710" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="770:858" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="921:1339" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="966:1248" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="1066:1143" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="1415:1582" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="1475:1495" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="1556:1576" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="1625:1908" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="1678:1902" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="1957:2194" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="2013:2033" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="2071:2188" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="2256:2508" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="2301:2425" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="2482:2502" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="2569:2762" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="2628:2756" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="2819:2905" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="2879:2899" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="2989:3571" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="3093:3288" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="3331:3481" ph="{...}" />
+            <marker date="1560081304417" expanded="true" signature="3404:3470" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuthProject/Context/AuthDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+          <folding>
+            <marker date="1560081794399" expanded="true" signature="6:339" ph="..." />
+            <marker date="1560081794399" expanded="true" signature="387:2171" ph="{...}" />
+            <marker date="1560081794399" expanded="true" signature="522:750" ph="{...}" />
+            <marker date="1560081794399" expanded="true" signature="617:744" ph="{...}" />
+            <marker date="1560081794399" expanded="true" signature="854:1035" ph="{...}" />
+            <marker date="1560081794399" expanded="true" signature="937:1029" ph="{...}" />
+            <marker date="1560081794399" expanded="true" signature="1152:1665" ph="{...}" />
+            <marker date="1560081794399" expanded="true" signature="1244:1264" ph="{...}" />
+            <marker date="1560081794399" expanded="true" signature="1425:1659" ph="{...}" />
+            <marker date="1560081794399" expanded="true" signature="1714:2169" ph="{...}" />
+            <marker date="1560081794399" expanded="true" signature="1863:1883" ph="{...}" />
+            <marker date="1560081794399" expanded="true" signature="1996:2108" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuthProject/Migrations/20190609125949_init.cs">
+      <provider editor-type-id="WinFormsEditor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <marker date="1560085190072" expanded="false" signature="6:107" ph="..." />
+            <marker date="1560085190072" expanded="true" signature="141:10178" ph="{...}" />
+            <marker date="1560085190072" expanded="true" signature="185:10176" ph="{...}" />
+            <marker date="1560085190072" expanded="true" signature="261:9413" ph="{...}" />
+            <marker date="1560085190072" expanded="true" signature="405:736" ph="{...}" />
+            <marker date="1560085190072" expanded="true" signature="792:878" ph="{...}" />
+            <marker date="1560085190072" expanded="true" signature="1015:2284" ph="{...}" />
+            <marker date="1560085190072" expanded="true" signature="2340:2426" ph="{...}" />
+            <marker date="1560085190072" expanded="true" signature="2572:2852" ph="{...}" />
+            <marker date="1560085190072" expanded="true" signature="2908:3003" ph="{...}" />
+            <marker date="1560085190072" expanded="true" signature="3145:3555" ph="{...}" />
+            <marker date="1560085190072" expanded="true" signature="3611:4023" ph="{...}" />
+            <marker date="1560085190072" expanded="true" signature="4165:4575" ph="{...}" />
+            <marker date="1560085190072" expanded="true" signature="4631:5043" ph="{...}" />
+            <marker date="1560085190072" expanded="true" signature="5185:5499" ph="{...}" />
+            <marker date="1560085190072" expanded="true" signature="5555:6001" ph="{...}" />
+            <marker date="1560085190072" expanded="true" signature="6142:6296" ph="{...}" />
+            <marker date="1560085190072" expanded="true" signature="6352:7104" ph="{...}" />
+            <marker date="1560085190072" expanded="true" signature="7246:7539" ph="{...}" />
+            <marker date="1560085190072" expanded="true" signature="7595:8044" ph="{...}" />
+            <marker date="1560085190072" expanded="true" signature="9486:10170" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuthProject/Migrations/AuthDbContextModelSnapshot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <marker date="1560085190074" expanded="false" signature="28:258" ph="..." />
+            <marker date="1560085190074" expanded="true" signature="292:10221" ph="{...}" />
+            <marker date="1560085190074" expanded="true" signature="394:10219" ph="{...}" />
+            <marker date="1560085190074" expanded="true" signature="470:10213" ph="{...}" />
+            <marker date="1560085190074" expanded="true" signature="910:1237" ph="{...}" />
+            <marker date="1560085190074" expanded="true" signature="1339:1993" ph="{...}" />
+            <marker date="1560085190074" expanded="true" signature="2095:3590" ph="{...}" />
+            <marker date="1560085190074" expanded="true" signature="3706:4270" ph="{...}" />
+            <marker date="1560085190074" expanded="true" signature="4386:4950" ph="{...}" />
+            <marker date="1560085190074" expanded="true" signature="5066:5509" ph="{...}" />
+            <marker date="1560085190074" expanded="true" signature="5624:5889" ph="{...}" />
+            <marker date="1560085190074" expanded="true" signature="6005:6349" ph="{...}" />
+            <marker date="1560085190074" expanded="true" signature="6460:7288" ph="{...}" />
+            <marker date="1560085190074" expanded="true" signature="6575:7268" ph="{...}" />
+            <marker date="1560085190074" expanded="true" signature="7390:7921" ph="{...}" />
+            <marker date="1560085190074" expanded="true" signature="7507:7901" ph="{...}" />
+            <marker date="1560085190074" expanded="true" signature="8037:8318" ph="{...}" />
+            <marker date="1560085190074" expanded="true" signature="8434:8715" ph="{...}" />
+            <marker date="1560085190074" expanded="true" signature="8831:9112" ph="{...}" />
+            <marker date="1560085190074" expanded="true" signature="9227:9771" ph="{...}" />
+            <marker date="1560085190074" expanded="true" signature="9887:10168" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuthProject/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CB33E60E-C84E-4979-9FD7-1555630E4C72/1b/3d995a45/JwtBearerOptions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuthProject/Services/GetTokenValidateParameters.cs" />
+    <entry file="file://$PROJECT_DIR$/AuthProject/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1571C05F-E355-4EE9-BF63-E97B4EF6249D/32/TokenValidationParameters.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="385" column="27" selection-start-line="385" selection-start-column="27" selection-end-line="385" selection-end-column="27" />
+          <folding>
+            <marker date="1560007217600" expanded="true" signature="0:1358" ph="/* ------------------------------------------------------------------------------ ... */" />
+            <marker date="1560007217600" expanded="true" signature="1547:28992" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="1554:2002" ph="/// Definition for AudienceValidator. ... " />
+            <marker date="1560007217600" expanded="true" signature="2160:2747" ph="/// Definition for IssuerSigningKeyResolver. ... " />
+            <marker date="1560007217600" expanded="true" signature="2927:3335" ph="/// Definition for IssuerSigningKeyValidator. ... " />
+            <marker date="1560007217600" expanded="true" signature="3495:4082" ph="/// Definition for IssuerValidator. ... " />
+            <marker date="1560007217600" expanded="true" signature="4224:4712" ph="/// Definition for LifetimeValidator. ... " />
+            <marker date="1560007217600" expanded="true" signature="4879:5302" ph="/// Definition for TokenReplayValidator. ... " />
+            <marker date="1560007217600" expanded="true" signature="5451:5712" ph="/// Definition for SignatureValidator. ... " />
+            <marker date="1560007217600" expanded="true" signature="5834:6088" ph="/// Definition for TokenReader. ... " />
+            <marker date="1560007217600" expanded="true" signature="6203:6794" ph="/// Definition for TokenDecryptionKeyResolver. ... " />
+            <marker date="1560007217600" expanded="true" signature="6976:7146" ph="/// Contains a set of parameters that are used by a &lt;see cref=&quot;SecurityTokenHandler&quot;/&gt; when validating a &lt;see cre ... " />
+            <marker date="1560007217600" expanded="true" signature="7189:28990" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="7459:7620" ph="/// This is the fallback authenticationtype that a &lt;see cref=&quot;ISecurityTokenValidator&quot;/&gt; will use if nothing is s ... " />
+            <marker date="1560007217600" expanded="true" signature="7865:7997" ph="/// Default for the clock skew. ... " />
+            <marker date="1560007217600" expanded="true" signature="8103:8236" ph="/// Default for the maximm token size. ... " />
+            <marker date="1560007217600" expanded="true" signature="8332:8442" ph="/// Copy constructor for &lt;see cref=&quot;TokenValidationParameters&quot;/&gt;. ... " />
+            <marker date="1560007217600" expanded="true" signature="8519:10767" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="8560:8677" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="10777:10914" ph="/// Initializes a new instance of the &lt;see cref=&quot;TokenValidationParameters&quot;/&gt; class. ... " />
+            <marker date="1560007217600" expanded="true" signature="10957:11327" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="11337:11439" ph="/// Gets or sets &lt;see cref=&quot;TokenValidationParameters&quot;/&gt;. ... " />
+            <marker date="1560007217600" expanded="true" signature="11506:11560" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="11570:11927" ph="/// Gets or sets a delegate that will be used to validate the audience. ... " />
+            <marker date="1560007217600" expanded="true" signature="11978:12032" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="12042:12293" ph="/// Gets or sets a delegate that will be used to read the token. ... " />
+            <marker date="1560007217600" expanded="true" signature="12332:12386" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="12396:12624" ph="/// Gets or sets the AuthenticationType when creating a &lt;see cref=&quot;ClaimsIdentity&quot;/&gt;. ... " />
+            <marker date="1560007217600" expanded="true" signature="12665:13059" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="12691:12763" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="12779:13049" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="12847:12989" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="13069:13500" ph="/* Gets or sets the &lt;see cref=&quot;X509CertificateValidator&quot;/&gt; for validating X509Certificate2(s). ... */" />
+            <marker date="1560007217600" expanded="true" signature="13510:13716" ph="/// Gets or sets the clock skew to apply when validating a time. ... " />
+            <marker date="1560007217600" expanded="true" signature="13778:14163" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="13804:13867" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="13884:14153" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="14173:14488" ph="/// Returns a new instance of &lt;see cref=&quot;TokenValidationParameters&quot;/&gt; with values copied from this object. ... " />
+            <marker date="1560007217600" expanded="true" signature="14545:14621" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="14631:15327" ph="/// Creates a &lt;see cref=&quot;ClaimsIdentity&quot;/&gt; using: ... " />
+            <marker date="1560007217600" expanded="true" signature="15430:16339" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="15529:15636" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="15653:15728" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="15818:15925" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="15942:16017" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="16349:16544" ph="/// Users can override the default &lt;see cref=&quot;CryptoProviderFactory&quot;/&gt; with this property. This factory will be u ... " />
+            <marker date="1560007217600" expanded="true" signature="16603:16657" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="16667:16793" ph="/// Gets or sets the &lt;see cref=&quot;SecurityKey&quot;/&gt; that is to be used for decryption. ... " />
+            <marker date="1560007217600" expanded="true" signature="16839:16893" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="16903:17271" ph="/// Gets or sets a delegate that will be called to retreive a &lt;see cref=&quot;SecurityKey&quot;/&gt; used for decryption. ... " />
+            <marker date="1560007217600" expanded="true" signature="17340:17394" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="17404:17733" ph="/// Gets or sets a delegate for validating the &lt;see cref=&quot;SecurityKey&quot;/&gt; that signed the token. ... " />
+            <marker date="1560007217600" expanded="true" signature="17800:17854" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="17864:18000" ph="/// Gets or sets the &lt;see cref=&quot;SecurityKey&quot;/&gt; that is to be used for signature validation. ... " />
+            <marker date="1560007217600" expanded="true" signature="18044:18098" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="18108:18488" ph="/// Gets or sets a delegate that will be called to retrieve a &lt;see cref=&quot;SecurityKey&quot;/&gt; used for signature valida ... " />
+            <marker date="1560007217600" expanded="true" signature="18553:18607" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="18617:18751" ph="/// Gets or sets an &lt;see cref=&quot;IEnumerable{SecurityKey}&quot;/&gt; used for signature validation. ... " />
+            <marker date="1560007217600" expanded="true" signature="18809:18863" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="18873:19251" ph="/// Gets or sets a delegate that will be used to validate the issuer of the token. ... " />
+            <marker date="1560007217600" expanded="true" signature="19298:19352" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="19362:19743" ph="/// Gets or sets a delegate that will be used to validate the lifetime of the token ... " />
+            <marker date="1560007217600" expanded="true" signature="19794:19848" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="19858:20250" ph="/// Gets or sets a delegate that will be used to validate the token replay of the token ... " />
+            <marker date="1560007217600" expanded="true" signature="20307:20361" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="20371:20757" ph="/// Gets or sets a &lt;see cref=&quot;string&quot;/&gt; that defines the &lt;see cref=&quot;ClaimsIdentity.NameClaimType&quot;/&gt;. ... " />
+            <marker date="1560007217600" expanded="true" signature="20793:21157" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="20819:20886" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="20903:21147" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="21167:21677" ph="/// Gets or sets the &lt;see cref=&quot;string&quot;/&gt; that defines the &lt;see cref=&quot;ClaimsIdentity.RoleClaimType&quot;/&gt;. ... " />
+            <marker date="1560007217600" expanded="true" signature="21713:22077" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="21739:21806" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="21823:22067" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="22087:22283" ph="/// Gets or sets a delegate that will be called to obtain the NameClaimType to use when creating a ClaimsIdentity ... " />
+            <marker date="1560007217600" expanded="true" signature="22381:22634" ph="/// Gets or sets the &lt;see cref=&quot;IDictionary{String, Object}&quot;/&gt; that contains a collection of custom key/value pai ... " />
+            <marker date="1560007217600" expanded="true" signature="22689:22743" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="22753:22881" ph="/// Gets or sets a value indicating whether tokens must have an 'expiration' value. ... " />
+            <marker date="1560007217600" expanded="true" signature="22976:23133" ph="/// Gets or sets a value indicating whether a &lt;see cref=&quot;SecurityToken&quot;/&gt; can be considered valid if not signed. ... " />
+            <marker date="1560007217600" expanded="true" signature="23226:23422" ph="/// Gets or sets a delegate that will be called to obtain the RoleClaimType to use when creating a ClaimsIdentity ... " />
+            <marker date="1560007217600" expanded="true" signature="23520:23794" ph="/// Gets or sets a boolean to control if the original token should be saved after the security token is validated ... " />
+            <marker date="1560007217600" expanded="true" signature="23860:23914" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="23924:24205" ph="/// Gets or sets a delegate that will be used to validate the signature of the token. ... " />
+            <marker date="1560007217600" expanded="true" signature="24258:24312" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="24322:24476" ph="/// Gets or sets the &lt;see cref=&quot;IEnumerable{SecurityKey}&quot;/&gt; that is to be used for decrypting inbound tokens. ... " />
+            <marker date="1560007217600" expanded="true" signature="24536:24590" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="24600:24870" ph="/// Gets or set the &lt;see cref=&quot;ITokenReplayCache&quot;/&gt; that store tokens that can be checked to help detect token re ... " />
+            <marker date="1560007217600" expanded="true" signature="24920:24974" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="24984:25127" ph="/// Gets or sets a value indicating if an actor token is detected, whether it should be validated. ... " />
+            <marker date="1560007217600" expanded="true" signature="25191:25245" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="25255:25644" ph="/// Gets or sets a boolean to control if the audience will be validated during token validation. ... " />
+            <marker date="1560007217600" expanded="true" signature="25710:25764" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="25774:26516" ph="/// Gets or sets a boolean to control if the issuer will be validated during token validation. ... " />
+            <marker date="1560007217600" expanded="true" signature="26580:26634" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="26644:26801" ph="/// Gets or sets a boolean to control if the lifetime will be validated during token validation. ... " />
+            <marker date="1560007217600" expanded="true" signature="26867:26921" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="26931:27438" ph="/// Gets or sets a boolean that controls if validation of the &lt;see cref=&quot;SecurityKey&quot;/&gt; that signed the securityT ... " />
+            <marker date="1560007217600" expanded="true" signature="27513:27567" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="27577:27738" ph="/// Gets or sets a boolean to control if the token replay will be validated during token validation. ... " />
+            <marker date="1560007217600" expanded="true" signature="27808:27862" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="27872:28032" ph="/// Gets or sets a string that represents a valid audience that will be used to check against the token's audienc ... " />
+            <marker date="1560007217600" expanded="true" signature="28068:28122" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="28132:28318" ph="/// Gets or sets the &lt;see cref=&quot;IEnumerable{String}&quot;/&gt; that contains valid audiences that will be used to check a ... " />
+            <marker date="1560007217600" expanded="true" signature="28368:28422" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="28432:28602" ph="/// Gets or sets a &lt;see cref=&quot;String&quot;/&gt; that represents a valid issuer that will be used to check against the tok ... " />
+            <marker date="1560007217600" expanded="true" signature="28636:28690" ph="{...}" />
+            <marker date="1560007217600" expanded="true" signature="28700:28882" ph="/// Gets or sets the &lt;see cref=&quot;IEnumerable{String}&quot;/&gt; that contains valid issuers that will be used to check aga ... " />
+            <marker date="1560007217600" expanded="true" signature="28930:28984" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuthProject/Services/JwtTokenStorageInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="40" column="38" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="38" />
+          <folding>
+            <marker date="1560091324900" expanded="true" signature="6:487" ph="..." />
+            <marker date="1560091324900" expanded="true" signature="536:5152" ph="{...}" />
+            <marker date="1560091324900" expanded="true" signature="572:877" ph="{...}" />
+            <marker date="1560091324900" expanded="true" signature="662:762" ph="{...}" />
+            <marker date="1560091324900" expanded="true" signature="909:1006" ph="{...}" />
+            <marker date="1560091324900" expanded="true" signature="1062:1123" ph="{...}" />
+            <marker date="1560091324900" expanded="true" signature="1161:1525" ph="{...}" />
+            <marker date="1560091324900" expanded="true" signature="1215:1260" ph="{...}" />
+            <marker date="1560091324900" expanded="true" signature="1339:1404" ph="{...}" />
+            <marker date="1560091324900" expanded="true" signature="1614:2367" ph="{...}" />
+            <marker date="1560091324900" expanded="true" signature="1879:1983" ph="{...}" />
+            <marker date="1560091324900" expanded="true" signature="2096:2361" ph="{...}" />
+            <marker date="1560091324900" expanded="true" signature="2479:5150" ph="{...}" />
+            <marker date="1560091324900" expanded="true" signature="2922:3069" ph="{...}" />
+            <marker date="1560091324900" expanded="true" signature="3211:4784" ph="{...}" />
+            <marker date="1560091324900" expanded="true" signature="3301:4599" ph="{...}" />
+            <marker date="1560091324900" expanded="true" signature="3537:3650" ph="{...}" />
+            <marker date="1560091324900" expanded="true" signature="3692:4018" ph="{...}" />
+            <marker date="1560091324900" expanded="true" signature="3877:4000" ph="{...}" />
+            <marker date="1560091324900" expanded="true" signature="4494:4530" ph="{...}" />
+            <marker date="1560091324900" expanded="true" signature="4631:4774" ph="{...}" />
+            <marker date="1560091324900" expanded="true" signature="4855:5144" ph="{...}" />
+            <marker date="1560091324900" expanded="true" signature="5155:6540" ph="/* public class JwtTokenHandler ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuthProject/Services/RefreshTokenGenerateAndSave.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <marker date="1560059911394" expanded="true" signature="6:167" ph="..." />
+            <marker date="1560059911394" expanded="true" signature="199:422" ph="{...}" />
+            <marker date="1560059911394" expanded="true" signature="238:420" ph="{...}" />
+            <marker date="1560059911394" expanded="true" signature="352:404" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuthProject/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="60" column="66" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
+          <folding>
+            <marker date="1560091324924" expanded="true" signature="6:579" ph="..." />
+            <marker date="1560091324924" expanded="true" signature="619:5432" ph="{...}" />
+            <marker date="1560091324924" expanded="true" signature="664:5430" ph="{...}" />
+            <marker date="1560091324924" expanded="true" signature="723:786" ph="{...}" />
+            <marker date="1560091324924" expanded="true" signature="1065:4657" ph="{...}" />
+            <marker date="1560091324924" expanded="true" signature="1370:1690" ph="{...}" />
+            <marker date="1560091324924" expanded="true" signature="3086:3490" ph="{...}" />
+            <marker date="1560091324924" expanded="true" signature="3559:3767" ph="{...}" />
+            <marker date="1560091324924" expanded="true" signature="3826:4056" ph="{...}" />
+            <marker date="1560091324924" expanded="true" signature="4060:4300" ph="/* services.AddMvc(config =&gt; ... */" />
+            <marker date="1560091324924" expanded="true" signature="4373:4537" ph="{...}" />
+            <marker date="1560091324924" expanded="true" signature="4845:5424" ph="{...}" />
+            <marker date="1560091324924" expanded="true" signature="4892:4969" ph="{...}" />
+            <marker date="1560091324924" expanded="true" signature="4986:5189" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuthProject/BlackListAuthorizationHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <marker date="1560012356120" expanded="true" signature="6:120" ph="..." />
+            <marker date="1560012356120" expanded="true" signature="143:537" ph="{...}" />
+            <marker date="1560012356120" expanded="true" signature="182:194" ph="{...}" />
+            <marker date="1560012356120" expanded="true" signature="298:535" ph="{...}" />
+            <marker date="1560012356120" expanded="true" signature="453:529" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuthProject/JWT_CONSTANT.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="36" />
+          <folding>
+            <marker date="1560002797252" expanded="true" signature="21:156" ph="{...}" />
+            <marker date="1560002797252" expanded="true" signature="60:154" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuthProject/Identities/CustomIdentityRole.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+          <folding>
+            <marker date="1560091275460" expanded="true" signature="6:228" ph="..." />
+            <marker date="1560091275460" expanded="true" signature="279:2250" ph="{...}" />
+            <marker date="1560091275460" expanded="true" signature="332:344" ph="{...}" />
+            <marker date="1560091275460" expanded="true" signature="403:953" ph="{...}" />
+            <marker date="1560091275460" expanded="true" signature="445:512" ph="{...}" />
+            <marker date="1560091275460" expanded="true" signature="599:787" ph="{...}" />
+            <marker date="1560091275460" expanded="true" signature="993:1352" ph="{...}" />
+            <marker date="1560091275460" expanded="true" signature="1088:1209" ph="{...}" />
+            <marker date="1560091275460" expanded="true" signature="1388:1536" ph="{...}" />
+            <marker date="1560091275460" expanded="true" signature="1441:1488" ph="{...}" />
+            <marker date="1560091275460" expanded="true" signature="1571:1925" ph="{...}" />
+            <marker date="1560091275460" expanded="true" signature="1652:1717" ph="{...}" />
+            <marker date="1560091275460" expanded="true" signature="1752:1802" ph="{...}" />
+            <marker date="1560091275460" expanded="true" signature="1999:2248" ph="{...}" />
+            <marker date="1560091275460" expanded="true" signature="2222:2242" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuthProject/EmailSender/EmailSenderService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="55" column="13" lean-forward="true" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+          <folding>
+            <marker date="1560075459157" expanded="true" signature="6:171" ph="..." />
+            <marker date="1560075459157" expanded="true" signature="223:2547" ph="{...}" />
+            <marker date="1560075459157" expanded="true" signature="255:591" ph="{...}" />
+            <marker date="1560075459157" expanded="true" signature="337:452" ph="{...}" />
+            <marker date="1560075459157" expanded="true" signature="634:903" ph="{...}" />
+            <marker date="1560075459157" expanded="true" signature="991:2545" ph="{...}" />
+            <marker date="1560075459157" expanded="true" signature="1242:1372" ph="{...}" />
+            <marker date="1560075459157" expanded="true" signature="1484:2539" ph="{...}" />
+            <marker date="1560075459157" expanded="true" signature="1933:1982" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuthProject/JwtTokenOptions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <marker date="1560087023221" expanded="true" signature="6:165" ph="..." />
+            <marker date="1560087023221" expanded="true" signature="188:723" ph="{...}" />
+            <marker date="1560087023221" expanded="true" signature="223:584" ph="{...}" />
+            <marker date="1560087023221" expanded="true" signature="633:717" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuthProject/Controllers/AuthController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <marker date="1560091653393" expanded="false" signature="6:421" ph="..." />
+            <marker date="1560091653393" expanded="true" signature="456:3577" ph="{...}" />
+            <marker date="1560091653393" expanded="true" signature="584:3575" ph="{...}" />
+            <marker date="1560091653393" expanded="true" signature="1108:1294" ph="{...}" />
+            <marker date="1560091653393" expanded="true" signature="1581:1913" ph="{...}" />
+            <marker date="1560091653393" expanded="true" signature="2154:2254" ph="{...}" />
+            <marker date="1560091653393" expanded="true" signature="2513:2632" ph="{...}" />
+            <marker date="1560091653393" expanded="true" signature="2909:3028" ph="{...}" />
+            <marker date="1560091653393" expanded="true" signature="3263:3418" ph="{...}" />
+            <marker date="1560091653393" expanded="true" signature="3524:3569" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AuthProject/AuthService/JwtAuthorizeService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="71" column="37" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
+          <folding>
+            <marker date="1560092379718" expanded="true" signature="6:660" ph="..." />
+            <marker date="1560092379718" expanded="true" signature="695:5503" ph="{...}" />
+            <marker date="1560092379718" expanded="true" signature="739:844" ph="{...}" />
+            <marker date="1560092379718" expanded="true" signature="792:838" ph="{...}" />
+            <marker date="1560092379718" expanded="true" signature="893:1001" ph="{...}" />
+            <marker date="1560092379718" expanded="true" signature="949:995" ph="{...}" />
+            <marker date="1560092379718" expanded="true" signature="1042:1142" ph="{...}" />
+            <marker date="1560092379718" expanded="true" signature="1180:3165" ph="{...}" />
+            <marker date="1560092379718" expanded="true" signature="1607:1806" ph="{...}" />
+            <marker date="1560092379718" expanded="true" signature="1943:3159" ph="{...}" />
+            <marker date="1560092379718" expanded="true" signature="3276:4358" ph="{...}" />
+            <marker date="1560092379718" expanded="true" signature="3580:3694" ph="{...}" />
+            <marker date="1560092379718" expanded="true" signature="3811:4352" ph="{...}" />
+            <marker date="1560092379718" expanded="true" signature="4465:5129" ph="{...}" />
+            <marker date="1560092379718" expanded="true" signature="4635:4695" ph="{...}" />
+            <marker date="1560092379718" expanded="true" signature="4813:5123" ph="{...}" />
+            <marker date="1560092379718" expanded="true" signature="5160:5501" ph="{...}" />
+            <marker date="1560092379718" expanded="true" signature="5249:5495" ph="{...}" />
+            <marker date="1560092379718" expanded="true" signature="5313:5457" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

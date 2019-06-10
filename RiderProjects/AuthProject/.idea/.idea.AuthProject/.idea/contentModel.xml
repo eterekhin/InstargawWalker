@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\evgeniy\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\evgeniy\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_AuthProject.211020178.00" t="ExcludeRecursive" />
+    <e p="C:\Users\evgeniy\RiderProjects\AuthProject" t="IncludeFlat">
+      <e p="AuthProject" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="AuthProject.csproj" t="IncludeRecursive" />
+        <e p="AuthService" t="Include">
+          <e p="JwtAuthorizeService.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BlackListAuthorizationHandler.cs" t="Include" />
+        <e p="Context" t="Include">
+          <e p="AuthDbContext.cs" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="AuthController.cs" t="Include" />
+        </e>
+        <e p="EmailSender" t="Include">
+          <e p="EmailSenderService.cs" t="Include" />
+        </e>
+        <e p="HandleResuls" t="Include">
+          <e p="HandlerResult.cs" t="Include" />
+          <e p="SimplyHandlerResult.cs" t="Include" />
+        </e>
+        <e p="Identities" t="Include">
+          <e p="CustomIdentityRole.cs" t="Include" />
+        </e>
+        <e p="JWT_CONSTANT.cs" t="Include" />
+        <e p="JwtTokenOptions.cs" t="Include" />
+        <e p="Migrations" t="Include">
+          <e p="20190609125949_init.cs" t="Include" />
+          <e p="20190609125949_init.Designer.cs" t="Include" />
+          <e p="AuthDbContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="AuthProject.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Requirements" t="Include">
+          <e p="BlackListAccessTokenRequirement.cs" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="JwtTokenStorageInfo.cs" t="Include" />
+          <e p="RefreshTokenGenerateAndSave.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="ValueTypes" t="Include">
+          <e p="ValueType.cs" t="Include" />
+        </e>
+      </e>
+      <e p="AuthProject.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
